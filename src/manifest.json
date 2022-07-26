@@ -20,13 +20,14 @@
   ],
   "share_target":
   {
-    "action": "/",
+    "action": "/hypothesis",
     "params":
     {
       "text": "text",
       "url": "url"
     }
   },
+  "scope": "/hypothesis",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
