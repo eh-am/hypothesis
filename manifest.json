@@ -20,7 +20,7 @@
   ],
   "share_target":
   {
-    "action": "/",
+    "action": "/hypothesis",
     "params":
     {
       "text": "text",
