@@ -9,7 +9,7 @@
  */
 export default (config, env, helpers, options) => {
   /** you can change the config here **/
-  if (env.production) {
-    config.output.publicPath = "/hypothesis";
-  }
+  //  if (env.production) {
+  //    config.output.publicPath = "/hypothesis";
+  //  }
 };
