@@ -11,7 +11,8 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
-
+      - name: asdf_install
+        uses: asdf-vm/actions/install@v1
       - name: Install and Build
         run: |
           npm ci
